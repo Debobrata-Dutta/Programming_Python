@@ -1,0 +1,4 @@
+lst = [1, 2, 5,6]
+print("list 1:",lst)
+lst.insert(2,10)
+print(lst)
